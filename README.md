@@ -1,13 +1,13 @@
-C
-B
-C
-C
-A
-A
-A
-B
-c
-A
+1.C
+2. B
+3.C
+4.C
+5 .A
+6. A
+7. A
+8. B
+9. c
+10. A
   Function greet(name){
 return 'hello${name}!';
 }
